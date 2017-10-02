@@ -9,7 +9,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/shpulak/react-post.git
-> cd react-redux-router
+> cd react-post
 > npm install
 > npm start
 ```
